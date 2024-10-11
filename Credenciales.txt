@@ -1,0 +1,9 @@
+Credenciales:
+
+Administrador:
+user: admin@gmail.com
+password: admin
+
+Gerente:
+user: gerente@gmail.com
+password: gerente
